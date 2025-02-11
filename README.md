@@ -9,6 +9,7 @@ Languages: SQL
 Tools: MySQL Workbench, iSQL*Plus Server
 
 Experiments/Projects:
+
 Exp 1: Introduction to SQL and its components.
 
 Exp 2: create Table with 10 entries having various attributes. Write querries to display the entire table and to display few columns of the table.
